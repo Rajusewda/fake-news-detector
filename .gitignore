@@ -1,2 +1,5 @@
 Fake.csv
 True.csv
+.ipynb_checkpoints/
+.idea/
+*.csv
